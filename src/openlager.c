@@ -63,7 +63,7 @@ static bool osc_err = false;
 #define CFGFILE_NAME "lager.cfg"
 
 // Must have non-digit characters before the digit characters.
-#define LOGNAME_FMT "log000.txt"
+#define LOGNAME_FMT "log000.bbl"
 
 #define NELEMENTS(x) (sizeof(x) / sizeof(*(x)))
 
