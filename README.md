@@ -1,3 +1,5 @@
+Same as Openlager, but with a .BBL file extension for the logs.
+
 <img src="artwork/openlager.png" alt="openlager" width="200" height="200" align="left"/>
 STM32F4 based logging dongle for **HIGH RATE** logging
 
